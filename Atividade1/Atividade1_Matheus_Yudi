@@ -1,0 +1,71 @@
+Períodos:
+
+0:00 – 3:30
+modelo de processos
+métodos ágeis
+
+3:31 – 5:56
+software
+documentação
+especificação de requisitos
+atributos
+bom desempenho
+confiabilidade
+usabilidade
+manutenabilidade
+
+5:57 – 6:19
+produção de software
+especificação
+validação
+evolução
+desenvolvimento
+
+6:20 – 8:46
+desafios
+confiabilidade
+rapidez
+custos
+60% desenvolvimento
+40% testes
+técnicas e métodos depende do software
+internet
+
+8:47 – 10:34
+atividades para a produção de software
+do zero
+estendido
+melhoramento
+componentização
+fundamental -> especificação, projeto, implementação, validação e evolução
+
+10:35 – 15:59
+modelos
+abstração, simplificado
+frameworks
+cascata -> sequencial, na pratica voltava as etapas
+incremental -> atividades simultânes, esboço, desenv, especificação, validação
+orientada a reuso -> partes prontas, componentes pre-existentes
+
+15:60 – 17:04
+atividades do processo
+rascunho, prototipo, desenv, teste
+
+17:05 – 18:15
+requisitos -> elicitação, especificação, validação
+
+18:16 – 19:44
+projeto -> arquitetuta, interface, BD, componentes
+
+19:45 – 20:53
+teste -> unitário, integrados, aceitação
+plano de teste por etapa
+casos de teste
+
+20:54 – 22:42
+evolução do sistema
+manutenção
+sustentação
+correção
+melhorias
+mudanças
